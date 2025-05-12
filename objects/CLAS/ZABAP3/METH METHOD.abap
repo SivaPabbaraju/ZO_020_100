@@ -1,0 +1,5 @@
+  method METHOD.
+
+   return.
+
+  endmethod.
